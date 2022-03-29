@@ -10,7 +10,7 @@ fun people(){
     println(family.contentToString())
 }
 fun town(){
-    var cities = arrayOf("harare","mumbai","dodoma","jakarta")
+    var town = arrayOf("harare","mumbai","dodoma","jakarta")
     cities.sortedArray().forEach {location ->
         println(location.capitalize())
     }
