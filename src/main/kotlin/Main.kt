@@ -1,5 +1,5 @@
 fun main(){
-  people()
+  humans()
   town()
   num()
   var names = arrayOf("julliet","Mathias","Martin")
